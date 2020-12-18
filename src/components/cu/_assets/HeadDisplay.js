@@ -3,8 +3,8 @@ import React from 'react'
 const HeadDisplay = () => {
     return (
         <div className="card-header text-center">
-            <h6 className="card-title">SEC Kerala</h6>
-            <h6 className="card-subtitle mb-2 text-muted">2020</h6>
+            <h6 className="card-title">Election</h6>
+            <h6 className="card-subtitle mb-2 text-muted">1212</h6>
           <div className="row mt-5 d-flex align-items-center mx-auto">
             <div className="col-2">
               <span className="dot light1On bg-green"></span>
