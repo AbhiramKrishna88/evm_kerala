@@ -1,0 +1,82 @@
+#dis1{
+    letter-spacing: 5px;
+}
+#dis2{
+    letter-spacing: 5px;
+}
+#cu{
+    height: 100vh;
+}
+
+#bu-1{
+    height: 70vh;
+}
+
+#bu-2{
+    height: 70vh;
+}
+
+#bu-3{
+    height: 70vh;
+}
+
+.r-max{
+    border-radius: 50%;
+}
+
+.r-25{
+    border-radius: 20px;
+}
+.h-40{
+    height: 40%;
+}
+.dot{
+height: 25px;
+width: 25px;
+border-radius: 50%;
+display: block;
+}
+.bg-red{
+    background: radial-gradient( #dd1818,#811e1e);
+}
+
+.bg-green{
+    background: radial-gradient( #38ef7d,#11998e);
+}
+.closeBtn{
+    position: absolute;
+    top: 15%;
+    left: 2%;
+}
+.z-1{
+    z-index: 1
+}
+.h-100vh{
+  height: 100vh;
+}
+.w-75vw{
+  width: 50vw;
+}
+.lid{
+    width: 100px;
+    height: 50px;
+    position: relative;
+    z-index: 20;
+    top: 15%;
+    left: 2%;
+    border-radius: 25px;
+}
+  
+.light1On{
+    box-shadow: 0 0 10px #38ef7d, 0 0 20px #31e080, 0 0 30px #28cc84, 0 0 40px #20bb87, 0 0 50px #2fdc81;
+}
+
+.light2On{
+    box-shadow: 0 0 10px #d61818, 0 0 20px #bc1a1a, 0 0 30px #bf1a1a, 0 0 40px #b81a1a, 0 0 50px #a31c1c;
+}
+
+.toolbar{
+    position: fixed;
+    top:0;
+    left:0;
+}
